@@ -4,7 +4,7 @@ https://colinjoshuafraser.me/
 
 - 🔭 I’m currently working on ... **React, Redux, and everything in between**
 
-![corgi_treadmill](./corgi_treadmill.gif)
+![corgi_treadmill](https://raw.githubusercontent.com/Shrugsy/Shrugsy/master/corgi_treadmill.gif)
 
 <!--
 👋
