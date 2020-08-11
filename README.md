@@ -4,6 +4,8 @@ https://colinjoshuafraser.me/
 
 - 🔭 I’m currently working on ... **React, Redux, and everything in between**
 
+![corgi_treadmill](./corgi_treadmill.gif)
+
 <!--
 👋
 **Shrugsy/Shrugsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
