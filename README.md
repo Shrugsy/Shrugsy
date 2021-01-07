@@ -2,7 +2,7 @@
 
 https://colinjoshuafraser.me/
 
-- 🔭 I’m currently working on ... **React, Redux, and everything in between**
+- 🔭 I’m currently working on ... **React, Redux, Typescript, and everything in between**
 
 ![corgi_treadmill](https://raw.githubusercontent.com/Shrugsy/Shrugsy/master/corgi_treadmill.gif)
 
