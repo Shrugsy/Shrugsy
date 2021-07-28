@@ -2,7 +2,11 @@
 
 https://colinjoshuafraser.me/
 
-- 🔭 I’m currently working on ... **React, Redux, Typescript, and everything in between**
+🔭 I’m currently working on ... **React, Redux, Typescript, and everything in between**
+
+- [@reduxjs/toolkit](https://github.com/reduxjs/redux-toolkit) collaborator
+- [Reactiflux](https://discord.gg/reactiflux) lurker
+- Professional googler
 
 ![corgi_treadmill](https://raw.githubusercontent.com/Shrugsy/Shrugsy/master/corgi_treadmill.gif)
 
