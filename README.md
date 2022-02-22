@@ -10,6 +10,8 @@ https://colinjoshuafraser.me/
 
 ![corgi_treadmill](https://raw.githubusercontent.com/Shrugsy/Shrugsy/master/corgi_treadmill.gif)
 
+![github_stats](https://github-readme-stats.vercel.app/api?username=Shrugsy&show_icons=true&theme=dark)
+
 <!--
 👋
 **Shrugsy/Shrugsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
